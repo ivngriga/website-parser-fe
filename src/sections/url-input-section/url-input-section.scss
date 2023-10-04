@@ -1,0 +1,24 @@
+.url-input-section {
+    text-align: center;
+    padding: 20px;
+
+    display: flex;
+    flex-direction: column;
+    
+    .centered-text {
+      width: 60%;
+      font-size: 3vw;
+      margin-bottom: 20px;
+      color: white;
+
+      margin: 0 auto;
+
+      margin-top: 20vh;
+      margin-bottom: 20vh;
+    }
+    
+    .url-input-container {
+      width: 100%;
+      margin: 0 auto;
+    }
+}

@@ -1,0 +1,17 @@
+{
+    "compilerOptions": {
+      "target": "ESNext", // Set your target version here
+      "module": "CommonJS", // Set your module system here
+      "strict": true,
+      "jsx": "react",
+      "esModuleInterop": true,
+      "skipLibCheck": true,
+      "forceConsistentCasingInFileNames": true,
+      "allowJs": true, // Allow JavaScript files
+      "allowImportingTsExtensions": true, // Enable importing with '.tsx' extensions
+      "resolveJsonModule": true,
+      "noEmit": true
+    },
+    "include": ["src/**/*"],
+    "exclude": ["node_modules"]
+  }
